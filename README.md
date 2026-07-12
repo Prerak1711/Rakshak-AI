@@ -1,5 +1,15 @@
 # React + TypeScript + Vite
+# Rakshak AI 🚨
 
+Rakshak AI is an AI-powered personal safety platform designed to enhance the security of women and senior citizens. It provides instant emergency assistance through intelligent voice recognition, AI-based distress detection, real-time location sharing, offline emergency capabilities, and smart safety recommendations.
+
+## Features
+
+- 🎙️ Voice-triggered SOS
+- 🤖 AI distress detection
+- 📍 Live location sharing
+- 📡 Offline emergency mode
+- 🛣️ Smart route recommendations
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
